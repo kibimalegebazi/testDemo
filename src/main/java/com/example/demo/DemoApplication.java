@@ -10,6 +10,8 @@ public class DemoApplication {
 		SpringApplication.run(DemoApplication.class, args);
 
 		xxxx = 444
+		
+		yyyy = 444
 	}
 
 
