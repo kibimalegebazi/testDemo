@@ -10,8 +10,6 @@ public class DemoApplication {
 		SpringApplication.run(DemoApplication.class, args);
 		String x="2";
 		xxxx = 444
-		
-		yyyy = 444
 	}
 
 
